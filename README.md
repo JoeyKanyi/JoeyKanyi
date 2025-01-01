@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeyKanyi
-- 👀 I’m interested in Robotics, IoT and AI
+- 👀 I’m interested in Automotives, Robotics, IoT and AI
 - 🌱 I’m currently learning Machine Learning
 - I'm a student in Mechatronics Engineering in Dedan Kimathi University of Technology
 <!---
